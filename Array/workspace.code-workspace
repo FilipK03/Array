@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\gdash (4)\\gdash"
+		},
+		{
+			"path": "..\\..\\..\\..\\Ny_komprimerad_mapp\\fysikmotor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uppgifter"
+	}
+}
